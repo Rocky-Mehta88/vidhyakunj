@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Skilled Child Theme
+ Theme URI:    http://skilled.aislinthemes.com/
+ Description:  Skilled Child Theme
+ Author:       Rocky Mehta
+ Author URI:   https://rocky-mehta.com
+ Template:     skilled
+ Version:      1.0.0
+ Tags:
+ Text Domain:
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.site-title a,
+.site-title {
+	margin: 0;
+	font-weight: 900;
+	font-size: 28px;
+	padding: 0;
+	line-height: 1;
+	text-transform: uppercase;
+	color: rgba(0, 0, 0, 0.9);
+	font-family: "Poppins", Arial, sans-serif;
+}
+
+.site-description {
+	text-shadow: none;
+	margin: 0;
+	line-height: 25px;
+	display: block;
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: rgba(0, 0, 0, 0.9);
+	font-family: "Poppins", Arial, sans-serif;
+}
+
+.sf-menu.wh-menu-main .sub-menu {
+	min-width: 15em;
+}
+
+.sf-menu ul ul {
+    top: -17px;
+    left: 100%;
+}

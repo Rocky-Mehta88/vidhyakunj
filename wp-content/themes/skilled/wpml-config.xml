@@ -1,0 +1,29 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">teacher</custom-type>
+    <custom-type translate="1">timetable_weekdays</custom-type>
+    <custom-type translate="1">events</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="0">testimonial_rotator</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">events_category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">timetable_subtitle</custom-field>
+    <custom-field action="copy">timetable_color</custom-field>
+    <custom-field action="copy">timetable_hover_color</custom-field>
+    <custom-field action="copy">timetable_text_color</custom-field>
+    <custom-field action="copy">timetable_hover_text_color</custom-field>
+    <custom-field action="copy">timetable_hours_text_color</custom-field>
+    <custom-field action="copy">timetable_hours_hover_text_color</custom-field>
+    <custom-field action="translate">timetable_custom_url</custom-field>
+    <custom-field action="copy">timetable_disable_url</custom-field>
+    <custom-field action="copy">_rotator_id</custom-field>
+    <custom-field action="copy">_rating</custom-field>
+    <custom-field action="translate">_cite</custom-field>
+    <custom-field action="translate">wheels_social_meta</custom-field>
+    <custom-field action="translate">wheels_job_title</custom-field>
+    <custom-field action="translate">wheels_summary</custom-field>
+  </custom-fields>
+</wpml-config>
